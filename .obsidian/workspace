@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "193704ce826a78b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bc983da7d28752c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a50f452c5c11da8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9d7b6303792a90d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04a4d855c533d6f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a94acf6310486234",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee5806688b8318c6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359.5
+  },
+  "right": {
+    "id": "59424e07f670fafe",
+    "type": "split",
+    "children": [
+      {
+        "id": "31be61be37ab8c93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb6ab8e14c1f7324",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9aa637f8f1b50fcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18b9fd016f12381b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0db5d510ca2ad4a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c178e3d463bfe99a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 496.5
+  },
+  "active": "5bc983da7d28752c",
+  "lastOpenFiles": [
+    "gitignore.md",
+    "Software Notes/Package Manager.md",
+    "Software Notes/Python/pypi.md",
+    "Software Notes/Python/Poetry.md",
+    "Software Notes/STAC/STAC Structure (excalidraw).md",
+    "Software Notes/Obsidian/Obsidian.md",
+    "Software Notes/Obsidian/Markdown.md",
+    "Software Notes/Python/pep-8-cheatsheet.png",
+    "Bash/Bash Shortcuts.md",
+    "images/art/cape-farewell.png"
+  ]
+}
