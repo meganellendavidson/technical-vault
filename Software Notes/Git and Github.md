@@ -28,7 +28,19 @@
 	```
 	This might prompt you for your user credentials. In this case enter your username and then a personal access token to continue. 
 	
-	[How to create a personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+	[How to create a personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) (make sure you give the access token write access)
 	
 ## Updating a Repository
 
+To see all changes:
+```bash
+Git status
+```
+use `git add` to stage files or `git add .` to stage all changes.
+
+use `git commit -m "message"` to commit the changes you've made. 
+
+use `git ush -u orgin master` to push to master
+
+## Links
+ https://dzone.com/articles/top-20-git-commands-with-examples
