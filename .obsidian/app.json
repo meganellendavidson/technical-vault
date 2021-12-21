@@ -2,5 +2,7 @@
   "promptDelete": true,
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "legacyEditor": false,
+  "livePreview": true
 }

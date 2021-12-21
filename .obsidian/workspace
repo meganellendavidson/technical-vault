@@ -7,8 +7,12 @@
         "id": "5bc983da7d28752c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Software Notes/Git and Github.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -87,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software Notes/Git and Github.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,15 +129,15 @@
   },
   "active": "5bc983da7d28752c",
   "lastOpenFiles": [
-    "gitignore.md",
+    "Software Notes/Git and Github.md",
+    "Software Notes/Obsidian/Obsidian.md",
     "Software Notes/Package Manager.md",
+    "Test Driven Development.md",
+    "gitignore.md",
     "Software Notes/Python/pypi.md",
     "Software Notes/Python/Poetry.md",
     "Software Notes/STAC/STAC Structure (excalidraw).md",
-    "Software Notes/Obsidian/Obsidian.md",
     "Software Notes/Obsidian/Markdown.md",
-    "Software Notes/Python/pep-8-cheatsheet.png",
-    "Bash/Bash Shortcuts.md",
-    "images/art/cape-farewell.png"
+    "Software Notes/Python/pep-8-cheatsheet.png"
   ]
 }
