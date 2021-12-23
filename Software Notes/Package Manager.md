@@ -12,5 +12,5 @@ Packages contain metadata
 Upon installation the package manager will install the dependencies locally. 
 
 Examples of package managers:
-- Yarn (ts js)
+- Yarn (ts, js)
 - [[Poetry]] (python)

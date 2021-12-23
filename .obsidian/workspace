@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5bc983da7d28752c",
+        "id": "976411dad05460e0",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#",
+                "query": "tag:#python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 252.5
   },
   "right": {
     "id": "59424e07f670fafe",
@@ -127,17 +127,17 @@
     "direction": "horizontal",
     "width": 496.5
   },
-  "active": "5bc983da7d28752c",
+  "active": "976411dad05460e0",
   "lastOpenFiles": [
     "Software Notes/Useful Notes.md",
     "Software Notes/Test Driven Development.md",
-    "Software Notes/STAC/STAC Structure (excalidraw).md",
     "Software Notes/Package Manager.md",
     "Software Notes/Git and Github.md",
-    "Software Notes/Obsidian/Obsidian.md",
-    "gitignore.md",
-    "Software Notes/Python/pypi.md",
-    "Software Notes/Python/Poetry.md",
-    "Software Notes/Obsidian/Markdown.md"
+    "images/top_down.png",
+    "images/art/make_waves.png",
+    "images/art/farm.png",
+    "images/art/cape-farewell.png",
+    "images/maps/New-York_Buildings.png",
+    "images/maps/Palmerston-North-Buildings.png"
   ]
 }

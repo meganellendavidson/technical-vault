@@ -40,7 +40,7 @@ use `git add` to stage files or `git add .` to stage all changes.
 
 use `git commit -m "message"` to commit the changes you've made. 
 
-use `git ush -u orgin master` to push to master
+use `git push -u orgin master` to push to master
 
 ## Links
  https://dzone.com/articles/top-20-git-commands-with-examples
